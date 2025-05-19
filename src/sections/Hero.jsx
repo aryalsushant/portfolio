@@ -1,4 +1,5 @@
 import React from 'react'
+import { words } from '../constants/index.js'
 
 
 const Hero = () => {
